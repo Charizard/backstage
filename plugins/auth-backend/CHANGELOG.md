@@ -1,5 +1,13 @@
 # @backstage/plugin-auth-backend
 
+## 0.3.19
+
+### Patch Changes
+
+- 4edca1bd0: Allow to configure SAML auth `acceptedClockSkewMs`
+- Updated dependencies
+  - @backstage/test-utils@0.1.16
+
 ## 0.3.18
 
 ### Patch Changes
